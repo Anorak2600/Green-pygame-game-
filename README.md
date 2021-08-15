@@ -7,3 +7,4 @@ update 0.0.1
 -added lasers when you use space
 -added hearts,they show hp
 -added music
+Its already builded version.Full project is builded with python and pygame.The game mechanics are only in this projects,its not ready now.
